@@ -1,0 +1,22 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+    color: rgb(0, 38, 255);
+    font: bold;
+}
+.link
+{
+    background: white;
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: medium;
+}
+.link:hover
+{
+    font-size: large;
+}
